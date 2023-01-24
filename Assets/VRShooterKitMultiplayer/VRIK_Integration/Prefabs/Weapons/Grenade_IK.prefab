@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &9087385765917241456
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1150263043398116, guid: f7d48b1da6e97f6428e4deb19bb1abdd, type: 3}
+      propertyPath: m_Name
+      value: Grenade_IK
+      objectReference: {fileID: 0}
+    - target: {fileID: 4005798924924556, guid: f7d48b1da6e97f6428e4deb19bb1abdd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0012
+      objectReference: {fileID: 0}
+    - target: {fileID: 4005798924924556, guid: f7d48b1da6e97f6428e4deb19bb1abdd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.0221
+      objectReference: {fileID: 0}
+    - target: {fileID: 4136421525724934, guid: f7d48b1da6e97f6428e4deb19bb1abdd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0133
+      objectReference: {fileID: 0}
+    - target: {fileID: 4136421525724934, guid: f7d48b1da6e97f6428e4deb19bb1abdd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.0082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207660852915196, guid: f7d48b1da6e97f6428e4deb19bb1abdd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.452415
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207660852915196, guid: f7d48b1da6e97f6428e4deb19bb1abdd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.419964
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207660852915196, guid: f7d48b1da6e97f6428e4deb19bb1abdd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 29.886517
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207660852915196, guid: f7d48b1da6e97f6428e4deb19bb1abdd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207660852915196, guid: f7d48b1da6e97f6428e4deb19bb1abdd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.98924685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207660852915196, guid: f7d48b1da6e97f6428e4deb19bb1abdd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207660852915196, guid: f7d48b1da6e97f6428e4deb19bb1abdd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.14625573
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207660852915196, guid: f7d48b1da6e97f6428e4deb19bb1abdd, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4257501005156766, guid: f7d48b1da6e97f6428e4deb19bb1abdd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0047
+      objectReference: {fileID: 0}
+    - target: {fileID: 4257501005156766, guid: f7d48b1da6e97f6428e4deb19bb1abdd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.027
+      objectReference: {fileID: 0}
+    - target: {fileID: 114757386608392624, guid: f7d48b1da6e97f6428e4deb19bb1abdd,
+        type: 3}
+      propertyPath: interactDistance
+      value: 0.09143675
+      objectReference: {fileID: 0}
+    - target: {fileID: 114757386608392624, guid: f7d48b1da6e97f6428e4deb19bb1abdd,
+        type: 3}
+      propertyPath: editorPart.selectedMenu
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114757386608392624, guid: f7d48b1da6e97f6428e4deb19bb1abdd,
+        type: 3}
+      propertyPath: editorPart.foldoutBasic
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114860915008931622, guid: f7d48b1da6e97f6428e4deb19bb1abdd,
+        type: 3}
+      propertyPath: leftHandSettings.rotationOffset.x
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 114860915008931622, guid: f7d48b1da6e97f6428e4deb19bb1abdd,
+        type: 3}
+      propertyPath: rightHandSettings.rotationOffset.x
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 114860915008931622, guid: f7d48b1da6e97f6428e4deb19bb1abdd,
+        type: 3}
+      propertyPath: leftHandSettings.hideHandOnGrab
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114860915008931622, guid: f7d48b1da6e97f6428e4deb19bb1abdd,
+        type: 3}
+      propertyPath: rightHandSettings.hideHandOnGrab
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114860915008931622, guid: f7d48b1da6e97f6428e4deb19bb1abdd,
+        type: 3}
+      propertyPath: rightHandAnimationSettings.animation
+      value: 
+      objectReference: {fileID: 7400000, guid: dd5c83df2632f5149896b83f662e85ba, type: 2}
+    - target: {fileID: 114860915008931622, guid: f7d48b1da6e97f6428e4deb19bb1abdd,
+        type: 3}
+      propertyPath: editorPart.foldoutRightHandAnimationSettings
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114860915008931622, guid: f7d48b1da6e97f6428e4deb19bb1abdd,
+        type: 3}
+      propertyPath: editorPart.foldoutLeftHandAnimationSettings
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114860915008931622, guid: f7d48b1da6e97f6428e4deb19bb1abdd,
+        type: 3}
+      propertyPath: leftHandAnimationSettings.animation
+      value: 
+      objectReference: {fileID: 7400000, guid: 23002489af678af4fb569302bc34abb5, type: 2}
+    - target: {fileID: 114860915008931622, guid: f7d48b1da6e97f6428e4deb19bb1abdd,
+        type: 3}
+      propertyPath: leftHandSettings.rotationOffset.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114860915008931622, guid: f7d48b1da6e97f6428e4deb19bb1abdd,
+        type: 3}
+      propertyPath: editorPart.selectedMenu
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114860915008931622, guid: f7d48b1da6e97f6428e4deb19bb1abdd,
+        type: 3}
+      propertyPath: editorPart.foldoutInteraction
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114860915008931622, guid: f7d48b1da6e97f6428e4deb19bb1abdd,
+        type: 3}
+      propertyPath: editorPart.foldoutRightHandInteractSettings
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114860915008931622, guid: f7d48b1da6e97f6428e4deb19bb1abdd,
+        type: 3}
+      propertyPath: editorPart.foldoutLeftHandInteractSettings
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f7d48b1da6e97f6428e4deb19bb1abdd, type: 3}

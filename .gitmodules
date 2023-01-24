@@ -1,0 +1,9 @@
+[submodule "Assets/Modules/VRShooterKit"]
+	path = Assets/Modules/VRShooterKit
+	url = https://github.com/platinio/VRShooterKit-Module
+[submodule "Assets/Modules/VRSDK"]
+	path = Assets/Modules/VRSDK
+	url = https://github.com/platinio/VRSDK
+[submodule "Assets/Modules/VRDamageSystem"]
+	path = Assets/Modules/VRDamageSystem
+	url = https://github.com/platinio/VRDamageSystem

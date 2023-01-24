@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4347558736258763974
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3799259394078894957}
+  m_Layer: 0
+  m_Name: LeftGrabPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3799259394078894957
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4347558736258763974}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.038, y: 0, z: -0.054}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4768280417884905438}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &4999683885733871380
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 788565547593125240, guid: 888324d3c39cdbe49b8619045614ff60,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.461
+      objectReference: {fileID: 0}
+    - target: {fileID: 788565547593125240, guid: 888324d3c39cdbe49b8619045614ff60,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 788565547593125240, guid: 888324d3c39cdbe49b8619045614ff60,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24.545
+      objectReference: {fileID: 0}
+    - target: {fileID: 788565547593125240, guid: 888324d3c39cdbe49b8619045614ff60,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 788565547593125240, guid: 888324d3c39cdbe49b8619045614ff60,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.6909827
+      objectReference: {fileID: 0}
+    - target: {fileID: 788565547593125240, guid: 888324d3c39cdbe49b8619045614ff60,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 788565547593125240, guid: 888324d3c39cdbe49b8619045614ff60,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7228714
+      objectReference: {fileID: 0}
+    - target: {fileID: 788565547593125240, guid: 888324d3c39cdbe49b8619045614ff60,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 788565547593125240, guid: 888324d3c39cdbe49b8619045614ff60,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 788565547593125240, guid: 888324d3c39cdbe49b8619045614ff60,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -87.416
+      objectReference: {fileID: 0}
+    - target: {fileID: 788565547593125240, guid: 888324d3c39cdbe49b8619045614ff60,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1871843621335177753, guid: 888324d3c39cdbe49b8619045614ff60,
+        type: 3}
+      propertyPath: leftHandSettings.interactPoint
+      value: 
+      objectReference: {fileID: 3799259394078894957}
+    - target: {fileID: 1871843621335177753, guid: 888324d3c39cdbe49b8619045614ff60,
+        type: 3}
+      propertyPath: shareHandAnimationSettings
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1871843621335177753, guid: 888324d3c39cdbe49b8619045614ff60,
+        type: 3}
+      propertyPath: editorPart.selectedMenu
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1871843621335177753, guid: 888324d3c39cdbe49b8619045614ff60,
+        type: 3}
+      propertyPath: rightHandAnimationSettings.animation
+      value: 
+      objectReference: {fileID: 7400000, guid: afc29420e2b865e4a86afba04f69a3a8, type: 2}
+    - target: {fileID: 1871843621335177753, guid: 888324d3c39cdbe49b8619045614ff60,
+        type: 3}
+      propertyPath: leftHandAnimationSettings.animation
+      value: 
+      objectReference: {fileID: 7400000, guid: d9da2a4c7cb20034c87dc981d87792b7, type: 2}
+    - target: {fileID: 4371541584717594475, guid: 888324d3c39cdbe49b8619045614ff60,
+        type: 3}
+      propertyPath: m_Name
+      value: M4WithScope_IK
+      objectReference: {fileID: 0}
+    - target: {fileID: 4371541584717594478, guid: 888324d3c39cdbe49b8619045614ff60,
+        type: 3}
+      propertyPath: rightHandAnimationSettings.animation
+      value: 
+      objectReference: {fileID: 7400000, guid: d4a0efb359a58384aa8a63028892c4fd, type: 2}
+    - target: {fileID: 4371541584717594478, guid: 888324d3c39cdbe49b8619045614ff60,
+        type: 3}
+      propertyPath: leftHandAnimationSettings.animation
+      value: 
+      objectReference: {fileID: 7400000, guid: 81c5edc74a225aa4ab7608f1db7ef667, type: 2}
+    - target: {fileID: 4371541584717594478, guid: 888324d3c39cdbe49b8619045614ff60,
+        type: 3}
+      propertyPath: shareHandAnimationSettings
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6745946365551004345, guid: 888324d3c39cdbe49b8619045614ff60,
+        type: 3}
+      propertyPath: m_Name
+      value: RightGrabPoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 6745946365551004346, guid: 888324d3c39cdbe49b8619045614ff60,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.038
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 888324d3c39cdbe49b8619045614ff60, type: 3}
+--- !u!4 &4768280417884905438 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 526401946380296394, guid: 888324d3c39cdbe49b8619045614ff60,
+    type: 3}
+  m_PrefabInstance: {fileID: 4999683885733871380}
+  m_PrefabAsset: {fileID: 0}

@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3852531676691534813
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1364376788144970, guid: 926d9c22b64562a49a5c135b599deabc, type: 3}
+      propertyPath: m_Name
+      value: Shotgun_IK
+      objectReference: {fileID: 0}
+    - target: {fileID: 4238289885831958, guid: 926d9c22b64562a49a5c135b599deabc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.031
+      objectReference: {fileID: 0}
+    - target: {fileID: 4238289885831958, guid: 926d9c22b64562a49a5c135b599deabc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0235
+      objectReference: {fileID: 0}
+    - target: {fileID: 4238289885831958, guid: 926d9c22b64562a49a5c135b599deabc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4647981663011204, guid: 926d9c22b64562a49a5c135b599deabc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.031
+      objectReference: {fileID: 0}
+    - target: {fileID: 4647981663011204, guid: 926d9c22b64562a49a5c135b599deabc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0235
+      objectReference: {fileID: 0}
+    - target: {fileID: 4647981663011204, guid: 926d9c22b64562a49a5c135b599deabc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.007
+      objectReference: {fileID: 0}
+    - target: {fileID: 4758099343734666, guid: 926d9c22b64562a49a5c135b599deabc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -11.546
+      objectReference: {fileID: 0}
+    - target: {fileID: 4758099343734666, guid: 926d9c22b64562a49a5c135b599deabc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.373
+      objectReference: {fileID: 0}
+    - target: {fileID: 4758099343734666, guid: 926d9c22b64562a49a5c135b599deabc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 33.54
+      objectReference: {fileID: 0}
+    - target: {fileID: 4758099343734666, guid: 926d9c22b64562a49a5c135b599deabc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4758099343734666, guid: 926d9c22b64562a49a5c135b599deabc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4758099343734666, guid: 926d9c22b64562a49a5c135b599deabc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4758099343734666, guid: 926d9c22b64562a49a5c135b599deabc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4758099343734666, guid: 926d9c22b64562a49a5c135b599deabc, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114784421874190452, guid: 926d9c22b64562a49a5c135b599deabc,
+        type: 3}
+      propertyPath: shareHandAnimationSettings
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114784421874190452, guid: 926d9c22b64562a49a5c135b599deabc,
+        type: 3}
+      propertyPath: editorPart.selectedMenu
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114784421874190452, guid: 926d9c22b64562a49a5c135b599deabc,
+        type: 3}
+      propertyPath: rightHandAnimationSettings.animation
+      value: 
+      objectReference: {fileID: 7400000, guid: d4a0efb359a58384aa8a63028892c4fd, type: 2}
+    - target: {fileID: 114784421874190452, guid: 926d9c22b64562a49a5c135b599deabc,
+        type: 3}
+      propertyPath: editorPart.foldoutRightHandAnimationSettings
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114784421874190452, guid: 926d9c22b64562a49a5c135b599deabc,
+        type: 3}
+      propertyPath: editorPart.foldoutLeftHandAnimationSettings
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114784421874190452, guid: 926d9c22b64562a49a5c135b599deabc,
+        type: 3}
+      propertyPath: leftHandAnimationSettings.animation
+      value: 
+      objectReference: {fileID: 7400000, guid: 81c5edc74a225aa4ab7608f1db7ef667, type: 2}
+    - target: {fileID: 114834971029756338, guid: 926d9c22b64562a49a5c135b599deabc,
+        type: 3}
+      propertyPath: minHitForce
+      value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: 114834971029756338, guid: 926d9c22b64562a49a5c135b599deabc,
+        type: 3}
+      propertyPath: maxHitForce
+      value: 120
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 926d9c22b64562a49a5c135b599deabc, type: 3}

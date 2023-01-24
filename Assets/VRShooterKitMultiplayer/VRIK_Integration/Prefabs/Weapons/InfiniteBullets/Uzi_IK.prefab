@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7164651933837771116
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1519897903635820, guid: cfabd6b110908124189aba4d59d9c7da, type: 3}
+      propertyPath: m_Name
+      value: Uzi_IK
+      objectReference: {fileID: 0}
+    - target: {fileID: 4273899808520578, guid: cfabd6b110908124189aba4d59d9c7da, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 4273899808520578, guid: cfabd6b110908124189aba4d59d9c7da, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4273899808520578, guid: cfabd6b110908124189aba4d59d9c7da, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 32.269
+      objectReference: {fileID: 0}
+    - target: {fileID: 4273899808520578, guid: cfabd6b110908124189aba4d59d9c7da, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4273899808520578, guid: cfabd6b110908124189aba4d59d9c7da, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4273899808520578, guid: cfabd6b110908124189aba4d59d9c7da, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4273899808520578, guid: cfabd6b110908124189aba4d59d9c7da, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4273899808520578, guid: cfabd6b110908124189aba4d59d9c7da, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114574781115234984, guid: cfabd6b110908124189aba4d59d9c7da,
+        type: 3}
+      propertyPath: shareHandAnimationSettings
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114574781115234984, guid: cfabd6b110908124189aba4d59d9c7da,
+        type: 3}
+      propertyPath: editorPart.selectedMenu
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114574781115234984, guid: cfabd6b110908124189aba4d59d9c7da,
+        type: 3}
+      propertyPath: leftHandAnimationSettings.hideHandOnGrab
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114574781115234984, guid: cfabd6b110908124189aba4d59d9c7da,
+        type: 3}
+      propertyPath: leftHandAnimationSettings.animation
+      value: 
+      objectReference: {fileID: 7400000, guid: 65f59303f8ed47b4db131d405f5472a1, type: 2}
+    - target: {fileID: 114574781115234984, guid: cfabd6b110908124189aba4d59d9c7da,
+        type: 3}
+      propertyPath: rightHandAnimationSettings.animation
+      value: 
+      objectReference: {fileID: 7400000, guid: 241e2dbedae24a249af4c55e4ccea68d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cfabd6b110908124189aba4d59d9c7da, type: 3}

@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2808216288033203405
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1986227581218070, guid: 5a49b602e6260d64893153e5b706b474, type: 3}
+      propertyPath: m_Name
+      value: UziMag_IK
+      objectReference: {fileID: 0}
+    - target: {fileID: 4758703792240378, guid: 5a49b602e6260d64893153e5b706b474, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.0042
+      objectReference: {fileID: 0}
+    - target: {fileID: 4758703792240378, guid: 5a49b602e6260d64893153e5b706b474, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.001
+      objectReference: {fileID: 0}
+    - target: {fileID: 4848572820397676, guid: 5a49b602e6260d64893153e5b706b474, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.646
+      objectReference: {fileID: 0}
+    - target: {fileID: 4848572820397676, guid: 5a49b602e6260d64893153e5b706b474, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.653
+      objectReference: {fileID: 0}
+    - target: {fileID: 4848572820397676, guid: 5a49b602e6260d64893153e5b706b474, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 36.848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4848572820397676, guid: 5a49b602e6260d64893153e5b706b474, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4848572820397676, guid: 5a49b602e6260d64893153e5b706b474, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4848572820397676, guid: 5a49b602e6260d64893153e5b706b474, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4848572820397676, guid: 5a49b602e6260d64893153e5b706b474, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4848572820397676, guid: 5a49b602e6260d64893153e5b706b474, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4848572820397676, guid: 5a49b602e6260d64893153e5b706b474, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.0668108
+      objectReference: {fileID: 0}
+    - target: {fileID: 4848572820397676, guid: 5a49b602e6260d64893153e5b706b474, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.3087518
+      objectReference: {fileID: 0}
+    - target: {fileID: 114496616486353136, guid: 5a49b602e6260d64893153e5b706b474,
+        type: 3}
+      propertyPath: grabMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114496616486353136, guid: 5a49b602e6260d64893153e5b706b474,
+        type: 3}
+      propertyPath: useDistanceGrab
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114496616486353136, guid: 5a49b602e6260d64893153e5b706b474,
+        type: 3}
+      propertyPath: useSteamRotationOffset
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114496616486353136, guid: 5a49b602e6260d64893153e5b706b474,
+        type: 3}
+      propertyPath: handSettings.rotationOffset.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 114496616486353136, guid: 5a49b602e6260d64893153e5b706b474,
+        type: 3}
+      propertyPath: handSettings.hideHandOnGrab
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114496616486353136, guid: 5a49b602e6260d64893153e5b706b474,
+        type: 3}
+      propertyPath: rightHandAnimationSettings.animation
+      value: 
+      objectReference: {fileID: 7400000, guid: afc29420e2b865e4a86afba04f69a3a8, type: 2}
+    - target: {fileID: 114496616486353136, guid: 5a49b602e6260d64893153e5b706b474,
+        type: 3}
+      propertyPath: leftHandAnimationSettings.animation
+      value: 
+      objectReference: {fileID: 7400000, guid: d9da2a4c7cb20034c87dc981d87792b7, type: 2}
+    - target: {fileID: 114496616486353136, guid: 5a49b602e6260d64893153e5b706b474,
+        type: 3}
+      propertyPath: shareHandAnimationSettings
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5a49b602e6260d64893153e5b706b474, type: 3}

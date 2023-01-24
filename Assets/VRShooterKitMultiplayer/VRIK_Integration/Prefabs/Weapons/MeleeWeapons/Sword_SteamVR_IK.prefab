@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5626622864710668842
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 624319516650255077, guid: 299d368152404a243b76132606c9670a,
+        type: 3}
+      propertyPath: shareHandAnimationSettings
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 624319516650255077, guid: 299d368152404a243b76132606c9670a,
+        type: 3}
+      propertyPath: editorPart.selectedMenu
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 624319516650255077, guid: 299d368152404a243b76132606c9670a,
+        type: 3}
+      propertyPath: rightHandAnimationSettings.animation
+      value: 
+      objectReference: {fileID: 7400000, guid: afc29420e2b865e4a86afba04f69a3a8, type: 2}
+    - target: {fileID: 624319516650255077, guid: 299d368152404a243b76132606c9670a,
+        type: 3}
+      propertyPath: editorPart.foldoutRightHandAnimationSettings
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 624319516650255077, guid: 299d368152404a243b76132606c9670a,
+        type: 3}
+      propertyPath: editorPart.foldoutLeftHandAnimationSettings
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 624319516650255077, guid: 299d368152404a243b76132606c9670a,
+        type: 3}
+      propertyPath: leftHandAnimationSettings.animation
+      value: 
+      objectReference: {fileID: 7400000, guid: d9da2a4c7cb20034c87dc981d87792b7, type: 2}
+    - target: {fileID: 624319516650255077, guid: 299d368152404a243b76132606c9670a,
+        type: 3}
+      propertyPath: rightHandSettings.rotationOffset.x
+      value: -70
+      objectReference: {fileID: 0}
+    - target: {fileID: 624319516650255077, guid: 299d368152404a243b76132606c9670a,
+        type: 3}
+      propertyPath: leftHandSettings.rotationOffset.x
+      value: -70
+      objectReference: {fileID: 0}
+    - target: {fileID: 658390259418194743, guid: 299d368152404a243b76132606c9670a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.819
+      objectReference: {fileID: 0}
+    - target: {fileID: 658390259418194743, guid: 299d368152404a243b76132606c9670a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.028
+      objectReference: {fileID: 0}
+    - target: {fileID: 662551952645808777, guid: 299d368152404a243b76132606c9670a,
+        type: 3}
+      propertyPath: m_Name
+      value: Sword_SteamVR_IK
+      objectReference: {fileID: 0}
+    - target: {fileID: 665609995274905501, guid: 299d368152404a243b76132606c9670a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.479
+      objectReference: {fileID: 0}
+    - target: {fileID: 665609995274905501, guid: 299d368152404a243b76132606c9670a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.633
+      objectReference: {fileID: 0}
+    - target: {fileID: 665609995274905501, guid: 299d368152404a243b76132606c9670a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 35.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 665609995274905501, guid: 299d368152404a243b76132606c9670a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 665609995274905501, guid: 299d368152404a243b76132606c9670a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 665609995274905501, guid: 299d368152404a243b76132606c9670a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 665609995274905501, guid: 299d368152404a243b76132606c9670a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 665609995274905501, guid: 299d368152404a243b76132606c9670a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 665609995274905501, guid: 299d368152404a243b76132606c9670a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 665609995274905501, guid: 299d368152404a243b76132606c9670a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 665609995274905501, guid: 299d368152404a243b76132606c9670a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 299d368152404a243b76132606c9670a, type: 3}
