@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/VRShooterKitMultiplayer/Scenes/Lobby.unity
+    guid: 6c249bc0be6878b48938e24e83443662
+  - enabled: 1
+    path: Assets/VRShooterKitMultiplayer/Scenes/GameRoom.unity
+    guid: 5f7846df17014d041b0503a4782178c7
+  - enabled: 1
+    path: Assets/VRShooterKitMultiplayer/Scenes/EndGame.unity
+    guid: 07eac10f00937cd4dbdc2200f44f724b
   m_configObjects: {}

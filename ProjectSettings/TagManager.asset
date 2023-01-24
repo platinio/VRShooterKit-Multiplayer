@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -13,22 +14,22 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Hand
+  - Button
+  - Enemy
+  - LevelGeometry
+  - Player
+  - Grabbable
+  - Lever
+  - VisualSensor
+  - AI_Stimulation_Enemy
+  - AI_Stimulation_Player
+  - IgnoreCollision
+  - Dropzone_Trigger
+  - LaserSword
+  - GrabCollider
+  - PlayerNetwork
+  - Floor
   - 
   - 
   - 
